@@ -1,0 +1,43 @@
+.dummy {
+    margin-top: 100%;
+}
+.thumbnail {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+    padding-top:calc(50% - 30px);
+}
+
+.row-tile-margin {
+	margin-top: 0px;
+}
+
+.alive {
+	background-color: #CC0066;
+
+}
+
+.dead {
+	background-color: #C0C0C0;
+}
+
+.glyphicon-large {
+    min-height: 260px;
+    line-height: 260px;
+    font-size: 52px;
+    width: 1em;
+    display: block;
+    margin: 0em auto 0em;
+}
+
+.btn {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.hide {
+	display: none;
+}
